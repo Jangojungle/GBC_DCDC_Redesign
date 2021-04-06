@@ -1,1 +1,1 @@
-This folder will include data from various experiments.
+This folder includes data from various experiments.
